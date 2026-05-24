@@ -317,14 +317,8 @@ This project demonstrates understanding of:
 
 ---
 
-# License
-
-MIT License
-
----
 
 # Author
 
-Your Name
-
+alaa eddine bessghaier
 Data Engineering & Big Data Analytics Project
