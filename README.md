@@ -1,4 +1,4 @@
-# Google Play Store Big Data Analytics Pipeline using PySpark
+# Google Play Store Analytics Pipeline using PySpark
 
 ## Overview
 
